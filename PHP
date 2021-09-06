@@ -1,0 +1,16 @@
+<?php
+$one = strrev ("Hello");
+$onli = ",";
+$two = strrev ("take");
+$three = strrev ("me");
+$four = strrev ("to");
+$five = strrev ("work");
+$sixe = ".";
+$six = "I";
+$seven = strrev ("am");
+$eight = "a";
+$nine = strrev ("good");
+$ten = strrev ("worker");
+$teni = "!";
+echo "$one$onli $two $three $four $five$sixe $six $seven $eight $nine $ten$teni";
+?>
